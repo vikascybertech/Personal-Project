@@ -1736,17 +1736,7 @@
  	 				cout<<"Invaild Input..."<<endl;
  	 }
  	 	
- 	 	
- 	 	
- 	 	
- 	    	
-          	
-          	
-          	
-          	
-          	
-          	
-          	
+ 	 	         	
           			   
 }
    
