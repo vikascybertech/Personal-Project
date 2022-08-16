@@ -15,10 +15,10 @@
  	cout<<"                                             And Technical Skills.                   "<<endl;
  	cout<<"                            ========================================================"<<endl;
  	Question1:
- 	cout<<"Q.1 What is RAM?"<<endl;
- 	cout<<"1.Random Access Monitor"<<endl;
- 	cout<<"2.Random Write Memory"<<endl;
- 	cout<<"3.Random Access Memory"<<endl;
+ 	cout<<"Q.1 What is ARPANET"<<endl;
+ 	cout<<"1.Advance Research Projects Agency Number"<<endl;
+ 	cout<<"2.Advance Research Projects Automatic Network"<<endl;
+ 	cout<<"3.Advance Research Projects Agency Network"<<endl;
  	cout<<"Enter Choice:";
  	cin>>ch;
  	 switch(ch){
