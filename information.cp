@@ -187,7 +187,7 @@
 	  }
 	  Question3:
 	  	
-    cout<<"Q.3 What is Interner?"<<endl;
+    cout<<"Q.3 What is Internet?"<<endl;
  	cout<<"1.Collection of Computer"<<endl;
  	cout<<"2.Collection of Network"<<endl;
  	cout<<"3.Collection of Server"<<endl;
